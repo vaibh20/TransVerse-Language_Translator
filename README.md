@@ -67,8 +67,6 @@ A smart and intuitive **TransVerse** web application built with **HTML**, **CSS*
 - Narendra Gurav  
 - Vishal Khanvilkar  
 
-## 🤝 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/AdityaKaloji47/language-translator/issues).
 
 
